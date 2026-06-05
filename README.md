@@ -514,20 +514,6 @@ constrained-optimization
 python
 evolutionary-algorithms
 ```
-
-## Meta Description
-
-```text
-Python multi-objective optimization project using NSGA-II to solve a container loading problem by balancing unloading priority, center-of-gravity stability, and slot utilization under stacking constraints.
-```
-
-## Portfolio One-Liner
-
-Built a **multi-objective container loading optimizer** using NSGA-II to balance unloading priority, center-of-gravity stability, and slot utilization under stacking and feasibility constraints.
-
-## GitHub Repository Description
-
-```text
-NSGA-II based container loading optimization project for balancing unloading order, vessel stability, and slot utilization under stacking constraints.
+loading optimization project for balancing unloading order, vessel stability, and slot utilization under stacking constraints.
 ```
 
